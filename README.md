@@ -8,9 +8,9 @@
 
 ## Usage
 
-![Account balance from Ganache](/module_19/ganache_account.png)
+![Account balance from Ganache](/ganache_account.png)
 
-![Transaction hash from Ganache](/module_19/ganache_transaction.png)
+![Transaction hash from Ganache](/ganache_transaction.png)
 
 ## Contributors
 Ryan Svendson
